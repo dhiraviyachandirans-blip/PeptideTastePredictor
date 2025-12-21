@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ML models / large binaries
+*.pkl
+*.h5
+*.joblib
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
