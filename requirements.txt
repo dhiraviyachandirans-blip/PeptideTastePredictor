@@ -11,3 +11,8 @@ openpyxl
 requests
 py3Dmol
 
+# Dev / test tools
+pytest
+black
+flake8
+
