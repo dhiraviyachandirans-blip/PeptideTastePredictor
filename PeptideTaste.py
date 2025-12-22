@@ -23,7 +23,7 @@ import py3Dmol
 # -----------------------------
 # Streamlit Page Config
 # -----------------------------
-st.set_page_config(page_title="PepTastePredictor", layout="wide", page_icon=":🧬:")
+st.set_page_config(page_title="PepTastePredictor", layout="wide", page_icon="🧬")
 
 # --- Custom CSS for a cleaner, more accessible look (with dark-mode support) ---
 st.markdown(
